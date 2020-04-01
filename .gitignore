@@ -1,0 +1,10 @@
+*.o
+*.a
+*.la
+*.so
+*.ko*
+*.d
+*dep*
+config.h
+Makefile
+
